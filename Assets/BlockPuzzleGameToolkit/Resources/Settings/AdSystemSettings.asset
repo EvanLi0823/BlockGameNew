@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 340b1375129bb44dfb7cfbc3841ead75, type: 3}
+  m_Name: AdSystemSettings
+  m_EditorClassIdentifier: 
+  _adEntries:
+  - _name: level_complete
+    _type: 0
+    _active: 1
+    _description: 
+  - _name: reward_popup
+    _type: 0
+    _active: 1
+    _description: 
+  - _name: level_failed_refresh
+    _type: 0
+    _active: 1
+    _description: 
+  - _name: daily_task_reward
+    _type: 0
+    _active: 1
+    _description: 
+  - _name: jackpot_reward
+    _type: 0
+    _active: 1
+    _description: 
+  - _name: extra_moves
+    _type: 0
+    _active: 1
+    _description: 
+  - _name: double_coins
+    _type: 0
+    _active: 1
+    _description: 
+  - _name: unlock_feature
+    _type: 1
+    _active: 1
+    _description: 
+  - _name: continue_game
+    _type: 0
+    _active: 1
+    _description: 
+  - _name: skip_level
+    _type: 0
+    _active: 1
+    _description: 
+  - _name: win_fixed_claim
+    _type: 0
+    _active: 1
+    _description: 
+  - _name: win_fixed_skip
+    _type: 1
+    _active: 1
+    _description: 
+  - _name: win_slider_skip
+    _type: 1
+    _active: 1
+    _description: 
+  - _name: win_slider_claim
+    _type: 0
+    _active: 1
+    _description: 
+  - _name: level_failed_replay
+    _type: 1
+    _active: 1
+    _description: "\u5173\u5361\u5931\u8D25Replay\u63D2\u5C4F\u5E7F\u544A"
+  - _name: moneyBlock_cumulative
+    _type: 0
+    _active: 1
+    _description: "\u91D1\u94B1\u65B9\u5757\u7684\u7D2F\u8BA1\u6D88\u6FC0\u52B1\u5E7F\u544A"
+  _enableAdSystem: 1
+  _treatFailureAsSuccess: 1
+  _debugMode: 0
+  _simulateAdFailureInEditor: 0

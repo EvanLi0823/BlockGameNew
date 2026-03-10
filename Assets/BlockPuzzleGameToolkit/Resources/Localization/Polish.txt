@@ -1,0 +1,37 @@
+Withdraw : Wypłata
+Target : Cel
+Score : Wynik
+ClaimPer : Odbierz {0}%
+Claim : Odbierz
+COLLECT : ZBIERAĆ
+Free Revive : Darmowy Revive
+Replay : Zagraj ponownie
+Music : Muzyka
+Sounds : Dźwięki
+Vibrates : Wibracje
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Kręć
+drawtips : Losuj {0} razy, aby zdobyć wszystkie nagrody. Każde losowanie podwaja wygraną!
+earngold : Zdobywaj złoto oglądając filmy. Wypłać po osiągnięciu {0}.
+withdrawtips : Osiągnąłeś {0} do wypłaty. Sprawdź i wypłać teraz!
+Progress : Postęp
+Lost due to out of space : Utracono z powodu braku miejsca
+Free Revive : Darmowe wskrzeszenie
+Replay : Zagraj ponownie
+Withdrawal : Wypłata
+information : Wprowadź swoje dane
+Redeem : Wykup
+RedeemResult : Wynik do realizacji
+RedeemTask : Zadanie Wykupu
+WithdrawalMethod : Sposób wypłaty
+entername : Wprowadź swoje imię
+Account : Konto
+Email : Email
+fullname : Imię i nazwisko
+youraccount : Twoje konto
+youremail : Twój e‑mail
+Revise : Popraw
+Confirming : Trwa potwierdzanie

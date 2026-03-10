@@ -1,0 +1,37 @@
+Withdraw : Вывод
+Target : Цель
+Score : Счёт
+ClaimPer : Получить {0}%
+Claim : Получить
+COLLECT : СОБИРАТЬ
+Free Revive : Бесплатное возр
+Replay : Ещё раз
+Music : Музыка
+Sounds : Звуки
+Vibrates : Вибрация
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Крутить
+drawtips : Сыграй {0} раз, чтобы получить все награды. Каждая игра удваивает приз!
+earngold : Зарабатывай золото, просматривая видео. Выводи при достижении {0}.
+withdrawtips : Вы достигли {0} для вывода. Проверьте и выведите сейчас!
+Progress : Прогресс
+Lost due to out of space : Утеряно из-за нехватки места
+Free Revive : Бесплатное воскрешение
+Replay : Играть снова
+Withdrawal : Вывод
+information : Введите ваши данные
+Redeem : Вывод
+RedeemResult : Результат для обмена
+RedeemTask : Задание на вывод
+WithdrawalMethod : Способ вывода
+entername : Пожалуйста, введите ваше имя
+Account : Аккаунт
+Email : Email
+fullname : Полное имя
+youraccount : Ваш аккаунт
+youremail : Ваша электронная почта
+Revise : Изменить
+Confirming : Подтверждается

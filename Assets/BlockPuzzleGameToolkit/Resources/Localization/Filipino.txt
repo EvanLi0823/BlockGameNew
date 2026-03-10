@@ -1,0 +1,37 @@
+Withdraw : Withdraw
+Target : Target
+Score : Puntos
+ClaimPer : Kunin {0}%
+Claim : Kunin
+COLLECT : TIPUNIN
+Free Revive : Libreng Buhay
+Replay : Ulitin
+Music : Musika
+Sounds : Mga Tunog
+Vibrates : Mga Pagyanig
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Iikot
+drawtips : Magsapalaran nang {0} beses para makuha lahat ng premyo. Doble ang premyo bawat pag-sapalaran!
+earngold : Kumita ng ginto sa panonood ng video. Withdraw kapag umabot ka ng {0}.
+withdrawtips : Umabot ka na sa {0} para makapag-withdraw. I-check at mag-withdraw na!
+Progress : Pagsulong
+Lost due to out of space : Nawala dahil sa kakulangan ng espasyo
+Free Revive : Libreng muling buhay
+Replay : Ulitin
+Withdrawal : Pag-withdraw
+information : Ilagay ang iyong impormasyon
+Redeem : Redeem
+RedeemResult : Resulta ng Pagpapalit
+RedeemTask : Gawain sa Redeem
+WithdrawalMethod : Paraan ng Pag-withdraw
+entername : Pakilagay ang iyong pangalan
+Account : Account
+Email : Email
+fullname : Buong Pangalan
+youraccount : Iyong Account
+youremail : Iyong Email
+Revise : Ayusin
+Confirming : Kino-confirm

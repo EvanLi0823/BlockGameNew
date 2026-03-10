@@ -1,0 +1,37 @@
+Withdraw : Tarik
+Target : Sasaran
+Score : Skor
+ClaimPer : Tuntut {0}%
+Claim : Tuntut
+COLLECT : KUMPUL
+Free Revive : Free Revive
+Replay : Main semula
+Music : Muzik
+Sounds : Bunyi
+Vibrates : Getaran
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Pusing
+drawtips : Cabut {0} kali untuk dapat semua hadiah. Setiap cabutan gandakan hadiah!
+earngold : Dapatkan emas dengan tonton video. Keluarkan bila capai {0}.
+withdrawtips : Anda telah capai {0} untuk pengeluaran. Semak dan keluar sekarang!
+Progress : Kemajuan
+Lost due to out of space : Hilang kerana kehabisan ruang
+Free Revive : Hidup Semula Percuma
+Replay : Main semula
+Withdrawal : Pengeluaran
+information : Masukkan maklumat anda
+Redeem : Tebus
+RedeemResult : Tebus Keputusan
+RedeemTask : Tugas Penebusan
+WithdrawalMethod : Kaedah Pengeluaran
+entername : Sila masukkan nama anda
+Account : Akaun
+Email : Email
+fullname : Nama Penuh
+youraccount : Akaun Anda
+youremail : E‑mel Anda
+Revise : Ubah suai
+Confirming : Mengesahkan

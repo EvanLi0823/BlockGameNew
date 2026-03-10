@@ -1,0 +1,37 @@
+Withdraw : Vybrat
+Target : Cíl
+Score : Skóre
+ClaimPer : Získat {0}%
+Claim : Získat
+COLLECT : SBÍRAT
+Free Revive : Zdarma oživit
+Replay : Hrát znovu
+Music : Hudba
+Sounds : Zvuky
+Vibrates : Vibrace
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Roztočit
+drawtips : Losuj {0}× a získej všechny odměny. Každý los zdvojnásobí cenu!
+earngold : Získej zlato sledováním videí. Vyber si, až dosáhneš {0}.
+withdrawtips : Dosáhli jste {0} pro výběr. Ověřte a vyberte hned!
+Progress : Postup
+Lost due to out of space : Ztraceno z důvodu nedostatku místa
+Free Revive : Oživení zdarma
+Replay : Hrát znovu
+Withdrawal : Výběr
+information : Zadejte své údaje
+Redeem : Výběr
+RedeemResult : Výsledek výhry
+RedeemTask : Úkol pro výběr
+WithdrawalMethod : Způsob výběru
+entername : Zadejte své jméno
+Account : Účet
+Email : Email
+fullname : Celé jméno
+youraccount : Váš účet
+youremail : Váš e‑mail
+Revise : Upravit
+Confirming : Potvrzování

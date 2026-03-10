@@ -1,0 +1,37 @@
+Withdraw : Withdraw
+Target : Target
+Score : Score
+ClaimPer : Claim {0}%
+Claim : Claim
+COLLECT : COLLECT
+Free Revive : Free Revive
+Replay : Replay
+Music : Music
+Sounds : Sounds
+Vibrates : Vibrates
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : SPIN
+drawtips : Draw {0} times to get all the rewards,Each draw doubles the random prize.
+earngold : Earn golds by watching videos withdraw when you reach {0}
+withdrawtips : You have reched {0} to withdraw.Check and withdraw now!
+Progress : Progress
+Lost due to out of space : Lost due to out of space
+Free Revive : Free Revive
+Replay : Replay
+Withdrawal : Withdrawal
+information : Enter your information
+Redeem : Redeem
+RedeemResult : Redeem Result
+RedeemTask : Redeem Task
+WithdrawalMethod : Withdrawal Method
+entername : Please enter your name
+Account : Account
+Email : Email
+fullname : Your Full Name
+youraccount : Your Account
+youremail : Your Email
+Revise : Revise
+Confirming : Confirming

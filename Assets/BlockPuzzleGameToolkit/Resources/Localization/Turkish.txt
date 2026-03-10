@@ -1,0 +1,37 @@
+Withdraw : Çekmek
+Target : Hedef
+Score : Skor
+ClaimPer : Talep Et {0}%
+Claim : Talep Et
+COLLECT : TOPLAMAK
+Free Revive : Ücretsiz Revive
+Replay : Tekrar oyna
+Music : Müzik
+Sounds : Sesler
+Vibrates : Titreşim
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Çevir
+drawtips : Tüm ödülleri almak için {0} kez çek. Her çekişte ödül ikiye katlanır!
+earngold : Videoları izleyerek altın kazan. {0}’a ulaşınca çek.
+withdrawtips : Çekmek için {0} değerine ulaştın. Hemen kontrol et ve çek!
+Progress : İlerleme
+Lost due to out of space : Yer yetersizliğinden kaybedildi
+Free Revive : Ücretsiz canlanma
+Replay : Tekrar oyna
+Withdrawal : Çekim
+information : Bilgilerinizi girin
+Redeem : Çevir
+RedeemResult : Sonucu Kullan
+RedeemTask : Çevirme Görevi
+WithdrawalMethod : Çekim Yöntemi
+entername : Lütfen adınızı girin
+Account : Hesap
+Email : Email
+fullname : Tam Adınız
+youraccount : Hesabınız
+youremail : E‑postanız
+Revise : Düzelt
+Confirming : Onaylanıyor

@@ -1,0 +1,66 @@
+{
+  "name": "block-unity-standards",
+  "version": "1.0.0",
+  "description": "BlockGame项目专属的Unity开发标准，包含硬性约束、代码质量规范、架构指南和性能优化",
+  "author": "BlockGame Team",
+  "tags": [
+    "unity",
+    "c#",
+    "code-standards",
+    "block-game",
+    "singleton",
+    "manager-architecture",
+    "performance"
+  ],
+  "triggers": [
+    "编写Unity C#代码",
+    "重构现有代码",
+    "代码审查",
+    "性能优化",
+    "修复Bug",
+    "实现新功能"
+  ],
+  "references": {
+    "batch-modification": "references/constraints/batch-modification.md",
+    "api-verification": "references/constraints/api-verification.md",
+    "method-signature": "references/constraints/method-signature.md",
+    "using-statements": "references/constraints/using-statements.md",
+    "code-blocks": "references/constraints/code-blocks.md",
+    "namespaces": "references/constraints/namespaces.md",
+    "code-quality": "references/csharp/code-quality.md",
+    "code-style": "references/csharp/code-style.md",
+    "singleton-pattern": "references/unity/singleton-pattern.md",
+    "manager-architecture": "references/unity/manager-architecture.md",
+    "settings-system": "references/unity/settings-system.md",
+    "unity-performance": "references/performance/unity-performance.md",
+    "memory-management": "references/performance/memory-management.md",
+    "code-review": "references/review/code-review.md"
+  },
+  "priority_levels": [
+    {
+      "level": "P0",
+      "name": "硬性约束",
+      "description": "违反将导致编译错误，必须严格遵守"
+    },
+    {
+      "level": "P1",
+      "name": "代码质量",
+      "description": "确保代码健壮性和可维护性"
+    },
+    {
+      "level": "P2",
+      "name": "项目架构",
+      "description": "遵循现有架构模式"
+    },
+    {
+      "level": "P3",
+      "name": "性能优化",
+      "description": "提升运行效率"
+    },
+    {
+      "level": "P4",
+      "name": "代码审查",
+      "description": "保证团队协作质量"
+    }
+  ]
+}

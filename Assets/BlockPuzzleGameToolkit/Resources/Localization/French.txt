@@ -1,0 +1,37 @@
+Withdraw : Retrait
+Target : Cible
+Score : Score
+ClaimPer : Récupérer {0}%
+Claim : Récupérer
+COLLECT : COLLECTER
+Free Revive : Revive gratuit
+Replay : Rejouer
+Music : Musique
+Sounds : Sons
+Vibrates : Vibrations
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Tourner
+drawtips : Pioche {0} fois pour obtenir toutes les récompenses. Chaque tirage double le gain !
+earngold : Gagnez de l'or en regardant des vidéos. Retirez quand vous atteignez {0}.
+withdrawtips : Vous avez atteint {0} pour retirer. Vérifiez et retirez maintenant !
+Progress : Progrès
+Lost due to out of space : Perdu par manque d'espace
+Free Revive : Revie gratuit
+Replay : Rejouer
+Withdrawal : Retrait
+information : Entrez vos informations
+Redeem : Échanger
+RedeemResult : Résultat à échanger
+RedeemTask : Tâche d'échange
+WithdrawalMethod : Méthode de retrait
+entername : Veuillez saisir votre nom
+Account : Account
+Email : Email
+fullname : Nom complet
+youraccount : Votre compte
+youremail : Votre e‑mail
+Revise : Modifier
+Confirming : En cours

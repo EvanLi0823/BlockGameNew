@@ -1,0 +1,37 @@
+Withdraw : Opname
+Target : Doel
+Score : Score
+ClaimPer : Claim {0}%
+Claim : Claim
+COLLECT : VERZAMELEN
+Free Revive : Gratis herleven
+Replay : Opnieuw spelen
+Music : Muziek
+Sounds : Geluiden
+Vibrates : Trillingen
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Draaien
+drawtips : Trek {0} keer om alle beloningen te krijgen. Elke trekking verdubbelt de prijs!
+earngold : Verdien goud door video's te kijken. Opneem als je {0} bereikt.
+withdrawtips : Je hebt {0} bereikt om op te nemen. Controleer en neem nu op!
+Progress : Voortgang
+Lost due to out of space : Verloren door gebrek aan ruimte
+Free Revive : Gratis herleven
+Replay : Opnieuw spelen
+Withdrawal : Opname
+information : Voer je gegevens in
+Redeem : Inwisselen
+RedeemResult : Uitslag inwisselen
+RedeemTask : Inwisseltaak
+WithdrawalMethod : Opnamemethode
+entername : Vul je naam in
+Account : Account
+Email : Email
+fullname : Volledige naam
+youraccount : Je account
+youremail : Je e‑mail
+Revise : Wijzigen
+Confirming : Bevestigt

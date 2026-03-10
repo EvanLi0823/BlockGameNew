@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8fb3025adb5148809f3b55585eb64d5, type: 3}
+  m_Name: ThresholdBasedDifficulty
+  m_EditorClassIdentifier: 
+  tutorialBaseline:
+    basic: 0.9
+    shaped: 0.1
+    large: 0
+  easyBaseline:
+    basic: 0.8
+    shaped: 0.18
+    large: 0.02
+  normalBaseline:
+    basic: 0.6
+    shaped: 0.3
+    large: 0.1
+  hardBaseline:
+    basic: 0.45
+    shaped: 0.4
+    large: 0.15
+  expertBaseline:
+    basic: 0.3
+    shaped: 0.45
+    large: 0.25
+  masterBaseline:
+    basic: 0.2
+    shaped: 0.5
+    large: 0.3

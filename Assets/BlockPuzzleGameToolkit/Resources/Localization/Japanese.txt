@@ -1,0 +1,37 @@
+Withdraw : 引き出す
+Target : ターゲット
+Score : スコア
+ClaimPer : 受け取る {0}%
+Claim : 受け取る
+COLLECT : 受け取る 
+Free Revive : 無料復活
+Replay : もう一度
+Music : 音楽
+Sounds : 効果音
+Vibrates : 振動
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : スピン
+drawtips : 0}回引いて全報酬をゲット！毎回のドローで報酬が2倍に！
+earngold : 動画を見てゴールドを獲得。{0}に到達したら引き出せます。
+withdrawtips : 出金可能額{0}に到達しました。今すぐ確認して引き出そう！
+Progress : 進捗
+Lost due to out of space : 容量不足により失われました
+Free Revive : 無料復活
+Replay : もう一度
+Withdrawal : 引き出し
+information : 情報を入力してください 
+Redeem : 引き換える
+RedeemResult : 交換結果
+RedeemTask : 交換ミッション
+WithdrawalMethod : 引き出し方法
+entername : 名前を入力してください 
+Account : アカウント
+Email : Email
+fullname : 氏名
+youraccount : アカウント情報 
+youremail : メールアドレス
+Revise : 修正する
+Confirming : 確認中

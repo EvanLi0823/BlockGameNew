@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b24d7170efb24120ac693112573a423, type: 3}
+  m_Name: FailedPopupSettings
+  m_EditorClassIdentifier: 
+  allowFreeRevive: 1
+  maxRevivesPerLevel: 1
+  refreshShapeCount: 3
+  adType: 2
+  allowReviveOnAdFail: 1
+  guaranteePlaceableShape: 1
+  smallShapePriority: 0.827
+  showProgressBar: 1
+  progressAnimationDuration: 0.5
+  debugFreeRevive: 0
+  enableReplayAd: 1
+  replayCountThreshold: 2
+  replayAdEntryName: level_failed_replay
+  resetCounterOnAdFail: 1
+  debugReplayAd: 0

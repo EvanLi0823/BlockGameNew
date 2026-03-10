@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: facf942dad2584c4c955e0e00dd1f990, type: 3}
+  m_Name: PropPurchaseSettings
+  m_EditorClassIdentifier: 
+  purchaseConfigs:
+  - propType: 1
+    canPurchaseWithAds: 1
+    adsRewardAmount: 3
+    dailyAdLimit: -1
+    canPurchaseWithCoins: 0
+    coinPrice: 100
+    coinPurchaseAmount: 5
+    dailyCoinLimit: -1
+    showInShop: 0
+    shopOrder: 0
+  - propType: 2
+    canPurchaseWithAds: 1
+    adsRewardAmount: 3
+    dailyAdLimit: -1
+    canPurchaseWithCoins: 0
+    coinPrice: 100
+    coinPurchaseAmount: 5
+    dailyCoinLimit: -1
+    showInShop: 0
+    shopOrder: 0
+  - propType: 3
+    canPurchaseWithAds: 1
+    adsRewardAmount: 1
+    dailyAdLimit: -1
+    canPurchaseWithCoins: 0
+    coinPrice: 200
+    coinPurchaseAmount: 3
+    dailyCoinLimit: -1
+    showInShop: 0
+    shopOrder: 0
+  propPurchasePopupPrefab: {fileID: 0}
+  enableDailyLimits: 0
+  dailyResetHour: 0

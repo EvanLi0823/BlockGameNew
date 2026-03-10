@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835cab128eedd4c35ab29c5d76940fb4, type: 3}
+  m_Name: NativeBridgeSettings
+  m_EditorClassIdentifier: 
+  enableNativeBridge: 1
+  androidPackageName: udq.fwf.lsy.BLOCKPUZZLECASHUTA
+  androidMethodName: blockPuzzleCashCaAn
+  iOSMethodName: callNative
+  enableDebugLogs: 1
+  mockResponseInEditor: 1
+  autoInitialize: 1
+  autoRequestCommonParams: 1
+  autoRequestWhiteBao: 1
+  autoRequestCurrency: 1
+  nativeCallTimeout: 5

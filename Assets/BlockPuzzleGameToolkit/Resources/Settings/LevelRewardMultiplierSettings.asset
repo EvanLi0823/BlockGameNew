@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8ab30814b9e4488489ba143f21acf25, type: 3}
+  m_Name: LevelRewardMultiplierSettings
+  m_EditorClassIdentifier: 
+  fixedMultiplierConfigs:
+  - configId: default
+    configName: "\u63D0\u73B0\u524D\u8D54\u7387"
+    multipliers:
+    - 20
+    - 6
+    - 5
+    - 4
+    - 3
+    - 3
+    - 3
+    - 3
+    resetDaily: 1
+    resetOnWithdraw: 1
+  - configId: default1
+    configName: "\u63D0\u73B0\u540E\u500D\u7387"
+    multipliers:
+    - 20
+    - 15
+    - 10
+    - 9
+    - 8
+    - 7
+    - 5
+    - 4
+    - 4
+    - 3
+    resetDaily: 1
+    resetOnWithdraw: 1

@@ -1,0 +1,335 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caa3a878211341b7a4a51fcc342e8864, type: 3}
+  m_Name: RewardSystemSettings
+  m_EditorClassIdentifier: 
+  precisionScale: 10000
+  rangeGroups:
+  - rangeId: no_withdraw
+    displayName: "\u672A\u63D0\u73B0"
+    minTotal: 0
+    maxTotal: 1000
+    valueRanges:
+    - minCoins: 0
+      maxCoins: 490
+      minReward: 14
+      maxReward: 15
+    - minCoins: 490
+      maxCoins: 610
+      minReward: 9
+      maxReward: 10
+    - minCoins: 610
+      maxCoins: 720
+      minReward: 4
+      maxReward: 5
+    - minCoins: 720
+      maxCoins: 800
+      minReward: 2
+      maxReward: 3
+    - minCoins: 800
+      maxCoins: 850
+      minReward: 1
+      maxReward: 2
+    - minCoins: 850
+      maxCoins: 900
+      minReward: 0.5
+      maxReward: 0.6
+    - minCoins: 900
+      maxCoins: 940
+      minReward: 0.1
+      maxReward: 0.2
+    - minCoins: 940
+      maxCoins: 970
+      minReward: 0.07
+      maxReward: 0.08
+    - minCoins: 970
+      maxCoins: 990
+      minReward: 0.04
+      maxReward: 0.05
+    - minCoins: 990
+      maxCoins: 1000
+      minReward: 0.01
+      maxReward: 0.02
+  - rangeId: withdraw_1
+    displayName: "\u6863\u4F4D1"
+    minTotal: 0
+    maxTotal: 2000
+    valueRanges:
+    - minCoins: 0
+      maxCoins: 980
+      minReward: 28
+      maxReward: 30
+    - minCoins: 980
+      maxCoins: 1220
+      minReward: 18
+      maxReward: 20
+    - minCoins: 1220
+      maxCoins: 1440
+      minReward: 8
+      maxReward: 10
+    - minCoins: 1440
+      maxCoins: 1600
+      minReward: 4
+      maxReward: 6
+    - minCoins: 1600
+      maxCoins: 1700
+      minReward: 2
+      maxReward: 4
+    - minCoins: 1700
+      maxCoins: 1800
+      minReward: 1
+      maxReward: 1.2
+    - minCoins: 1800
+      maxCoins: 1880
+      minReward: 0.2
+      maxReward: 0.4
+    - minCoins: 1880
+      maxCoins: 1940
+      minReward: 0.14
+      maxReward: 0.16
+    - minCoins: 1940
+      maxCoins: 1980
+      minReward: 0.08
+      maxReward: 0.1
+    - minCoins: 1980
+      maxCoins: 2000
+      minReward: 0.02
+      maxReward: 0.04
+  - rangeId: withdraw_2
+    displayName: "\u6863\u4F4D2"
+    minTotal: 0
+    maxTotal: 3000
+    valueRanges:
+    - minCoins: 0
+      maxCoins: 1470
+      minReward: 42
+      maxReward: 45
+    - minCoins: 1470
+      maxCoins: 1830
+      minReward: 27
+      maxReward: 30
+    - minCoins: 1830
+      maxCoins: 2160
+      minReward: 12
+      maxReward: 15
+    - minCoins: 2160
+      maxCoins: 2400
+      minReward: 6
+      maxReward: 9
+    - minCoins: 2400
+      maxCoins: 2550
+      minReward: 3
+      maxReward: 6
+    - minCoins: 2440
+      maxCoins: 2700
+      minReward: 1.5
+      maxReward: 1.8
+    - minCoins: 2700
+      maxCoins: 2820
+      minReward: 0.3
+      maxReward: 0.6
+    - minCoins: 2820
+      maxCoins: 2910
+      minReward: 0.21
+      maxReward: 0.24
+    - minCoins: 2910
+      maxCoins: 2970
+      minReward: 0.12
+      maxReward: 0.15
+    - minCoins: 2970
+      maxCoins: 3000
+      minReward: 0.03
+      maxReward: 0.06
+  - rangeId: withdraw_3
+    displayName: "\u6863\u4F4D3"
+    minTotal: 0
+    maxTotal: 5000
+    valueRanges:
+    - minCoins: 0
+      maxCoins: 2450
+      minReward: 70
+      maxReward: 75
+    - minCoins: 2450
+      maxCoins: 3050
+      minReward: 45
+      maxReward: 50
+    - minCoins: 3050
+      maxCoins: 3600
+      minReward: 20
+      maxReward: 25
+    - minCoins: 3600
+      maxCoins: 4000
+      minReward: 10
+      maxReward: 15
+    - minCoins: 4000
+      maxCoins: 4250
+      minReward: 5
+      maxReward: 10
+    - minCoins: 4250
+      maxCoins: 4500
+      minReward: 2.5
+      maxReward: 3
+    - minCoins: 4500
+      maxCoins: 4700
+      minReward: 0.5
+      maxReward: 1
+    - minCoins: 4700
+      maxCoins: 4850
+      minReward: 0.35
+      maxReward: 0.4
+    - minCoins: 4850
+      maxCoins: 4950
+      minReward: 0.2
+      maxReward: 0.25
+    - minCoins: 4950
+      maxCoins: 5000
+      minReward: 0.05
+      maxReward: 0.1
+  - rangeId: withdraw_4
+    displayName: "\u6863\u4F4D4"
+    minTotal: 0
+    maxTotal: 10000
+    valueRanges:
+    - minCoins: 0
+      maxCoins: 4900
+      minReward: 140
+      maxReward: 150
+    - minCoins: 4900
+      maxCoins: 6100
+      minReward: 90
+      maxReward: 100
+    - minCoins: 6100
+      maxCoins: 7200
+      minReward: 40
+      maxReward: 50
+    - minCoins: 7200
+      maxCoins: 8000
+      minReward: 20
+      maxReward: 30
+    - minCoins: 8000
+      maxCoins: 8500
+      minReward: 10
+      maxReward: 20
+    - minCoins: 8500
+      maxCoins: 9000
+      minReward: 5
+      maxReward: 6
+    - minCoins: 9000
+      maxCoins: 9400
+      minReward: 1
+      maxReward: 2
+    - minCoins: 9400
+      maxCoins: 9700
+      minReward: 0.7
+      maxReward: 0.8
+    - minCoins: 9700
+      maxCoins: 9900
+      minReward: 0.4
+      maxReward: 0.5
+    - minCoins: 9900
+      maxCoins: 10000
+      minReward: 0.1
+      maxReward: 0.2
+  - rangeId: withdraw_5
+    displayName: "\u6863\u4F4D5"
+    minTotal: 0
+    maxTotal: 20000
+    valueRanges:
+    - minCoins: 0
+      maxCoins: 9800
+      minReward: 280
+      maxReward: 300
+    - minCoins: 9800
+      maxCoins: 12200
+      minReward: 180
+      maxReward: 200
+    - minCoins: 12200
+      maxCoins: 14400
+      minReward: 80
+      maxReward: 100
+    - minCoins: 14400
+      maxCoins: 16000
+      minReward: 40
+      maxReward: 60
+    - minCoins: 16000
+      maxCoins: 17000
+      minReward: 20
+      maxReward: 40
+    - minCoins: 17000
+      maxCoins: 18000
+      minReward: 10
+      maxReward: 12
+    - minCoins: 18000
+      maxCoins: 18800
+      minReward: 2
+      maxReward: 4
+    - minCoins: 18800
+      maxCoins: 19400
+      minReward: 1.4
+      maxReward: 1.6
+    - minCoins: 19400
+      maxCoins: 19800
+      minReward: 0.8
+      maxReward: 1
+    - minCoins: 19800
+      maxCoins: 20000
+      minReward: 0.2
+      maxReward: 0.4
+  - rangeId: withdraw_6
+    displayName: "\u6863\u4F4D6"
+    minTotal: 0
+    maxTotal: 30000
+    valueRanges:
+    - minCoins: 0
+      maxCoins: 14700
+      minReward: 420
+      maxReward: 450
+    - minCoins: 14700
+      maxCoins: 18300
+      minReward: 270
+      maxReward: 300
+    - minCoins: 18300
+      maxCoins: 21600
+      minReward: 120
+      maxReward: 150
+    - minCoins: 21600
+      maxCoins: 24000
+      minReward: 60
+      maxReward: 90
+    - minCoins: 24000
+      maxCoins: 25500
+      minReward: 30
+      maxReward: 60
+    - minCoins: 25500
+      maxCoins: 27000
+      minReward: 15
+      maxReward: 18
+    - minCoins: 27000
+      maxCoins: 28200
+      minReward: 3
+      maxReward: 6
+    - minCoins: 28200
+      maxCoins: 29100
+      minReward: 2.1
+      maxReward: 2.4
+    - minCoins: 29100
+      maxCoins: 29700
+      minReward: 1.2
+      maxReward: 1.5
+    - minCoins: 29700
+      maxCoins: 30000
+      minReward: 0.3
+      maxReward: 0.6
+  multipliers:
+  - sourceKey: FloatingReward
+    multiplier: 1
+  maxRewardValue: 1000

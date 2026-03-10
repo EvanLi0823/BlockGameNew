@@ -1,0 +1,37 @@
+Withdraw : Retirar
+Target : Objetivo
+Score : Puntuación
+ClaimPer : Reclamar {0}%
+Claim : Reclamar
+COLLECT : RECOLECTAR
+Free Revive : Revivir gratis
+Replay : Jugar otra vez
+Music : Música
+Sounds : Sonidos
+Vibrates : Vibración
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Girar
+drawtips : Saca {0} veces para obtener todas las recompensas. ¡Cada sorteo duplica el premio!
+earngold : Gana oro viendo videos. Retira al llegar a {0}.
+withdrawtips : Has alcanzado {0} para retirar. ¡Comprueba y retira ya!
+Progress : Progreso
+Lost due to out of space : Perdido por falta de espacio
+Free Revive : Revivir gratis
+Replay : Jugar otra vez
+Withdrawal : Retiro
+information : Ingresa tu información
+Redeem : Canjear
+RedeemResult : Canjear Resultado
+RedeemTask : Tarea de Canje
+WithdrawalMethod : Método de retiro
+entername : Por favor, ingresa tu nombre
+Account : Cuenta
+Email : Email
+fullname : Nombre completo
+youraccount : Tu cuenta
+youremail : Tu correo electrónico
+Revise : Revisar
+Confirming : Confirmando

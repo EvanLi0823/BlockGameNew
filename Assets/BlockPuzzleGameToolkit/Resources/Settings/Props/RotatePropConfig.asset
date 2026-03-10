@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a717ac91a95404b3eacb54008cdf2dec, type: 3}
+  m_Name: RotatePropConfig
+  m_EditorClassIdentifier: 
+  propType: 1
+  propName: "\u65CB\u8F6C\u9053\u5177"
+  description: "\u987A\u65F6\u9488\u65CB\u8F6C\u9009\u4E2D\u7684\u65B9\u575790\u5EA6"
+  propIcon: {fileID: 21300000, guid: 2ceb45d5ce0a34ef4b98bf496dadf199, type: 3}
+  effectPrefab: {fileID: 0}
+  useSound: {fileID: 8300000, guid: 34754932f568f484e900e20ddd6a13fb, type: 3}
+  cooldownTime: 0
+  maxStack: 99
+  highlightColor: {r: 1, g: 1, b: 0, a: 0.5}
+  outlineColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}

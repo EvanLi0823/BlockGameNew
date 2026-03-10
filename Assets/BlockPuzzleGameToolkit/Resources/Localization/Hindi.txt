@@ -1,0 +1,37 @@
+Withdraw : निकालना
+Target : लक्ष्य
+Score : स्कोर
+ClaimPer : लें {0}%
+Claim : लें
+COLLECT : एकत्र करना
+Free Revive : मुफ़्त रिवाइव
+Replay : फिर से खेलें 
+Music : संगीत
+Sounds : आवाज़ें
+Vibrates : कंपन
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : घुमाएँ
+drawtips : सभी इनाम पाने के लिए {0} बार ड्रॉ करें। हर ड्रॉ से इनाम दोगुना होगा!
+earngold : वीडियो देखकर सोना कमाएं। {0} तक पहुंचने पर निकालें।
+withdrawtips : आप निकासी के लिए {0} तक पहुँच गए हैं। अभी जाँचें और निकालें!
+Progress : प्रगति
+Lost due to out of space : स्थान की कमी के कारण हानि 
+Free Revive : मुफ़्त पुनर्जीवन
+Replay : फिर से खेलें 
+Withdrawal : निकासी
+information : अपनी जानकारी दर्ज करें
+Redeem : रिडीम
+RedeemResult : रिडीम परिणाम
+RedeemTask : रिडीम कार्य
+WithdrawalMethod : निकासी विधि
+entername : कृपया अपना नाम दर्ज करें
+Account : खाता
+Email : Email
+fullname : पूरा नाम
+youraccount : आपका खाता
+youremail : आपकी ईमेल
+Revise : संशोधित करें
+Confirming : पुष्टि हो रही है

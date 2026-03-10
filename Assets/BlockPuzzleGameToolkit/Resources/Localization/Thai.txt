@@ -1,0 +1,37 @@
+Withdraw : ถอน
+Target : เป้าหมาย
+Score : คะแนน
+ClaimPer : รับ {0}%
+Claim : รับ
+COLLECT : รวบรวม
+Free Revive : ฟื้นฟูฟรี
+Replay : เล่นอีกครั้ง
+Music : ดนตรี
+Sounds : เสียง
+Vibrates : สั่น
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : หมุน
+drawtips : จับฉลาก {0} ครั้งรับรางวัลทั้งหมด! ทุกครั้งรางวัลเพิ่มสองเท่า!
+earngold : รับทองจากการดูวิดีโอ ถอนได้เมื่อถึง {0}
+withdrawtips : ถึงจำนวน {0} ที่ถอนได้แล้ว ตรวจสอบและถอนเลยตอนนี้!
+Progress : ความคืบหน้า
+Lost due to out of space : สูญเสียเนื่องจากพื้นที่เต็ม
+Free Revive : ฟื้นฟูฟรี
+Replay : เล่นอีกครั้ง
+Withdrawal : การถอน
+information : ใส่ข้อมูลของคุณ
+Redeem : แลกเงิน
+RedeemResult : แลกผลลัพธ์
+RedeemTask : ภารกิจแลกเงิน
+WithdrawalMethod : วิธีการถอน
+entername : กรุณากรอกชื่อของคุณ
+Account : บัญชี
+Email : Email
+fullname : ชื่อ-นามสกุล
+youraccount : บัญชีของคุณ
+youremail : อีเมลของคุณ
+Revise : แก้ไข
+Confirming : กำลังยืนยัน

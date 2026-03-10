@@ -1,0 +1,37 @@
+Withdraw : Retragere
+Target : Țintă
+Score : Scor
+ClaimPer : Revendică {0}%
+Claim : Revendică
+COLLECT : COLECTA
+Free Revive : Revive gratis
+Replay : Joacă din nou
+Music : Muzică
+Sounds : Sunete
+Vibrates : Vibrații
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Învârte
+drawtips : Tragere de {0} ori pentru toate recompensele. Fiecare tragere dublează premiul!
+earngold : Câștigă aur vizionând videoclipuri. Retrage la atingerea a {0}.
+withdrawtips : Ai atins {0} pentru retragere. Verifică și retrage acum!
+Progress : Progres
+Lost due to out of space : Pierdut din cauza lipsei de spațiu
+Free Revive : Reînviorare gratuită
+Replay : Joacă din nou
+Withdrawal : Retragere
+information : Introdu informațiile tale
+Redeem : Rascumparare
+RedeemResult : Rezultat de schimbat
+RedeemTask : Sarcina de Rascumparare
+WithdrawalMethod : Metodă de retragere
+entername : Te rog introdu numele tău
+Account : Cont
+Email : Email
+fullname : Nume complet
+youraccount : Contul tău
+youremail : E‑mailul tău
+Revise : Revizuiește
+Confirming : Se confirmă

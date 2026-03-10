@@ -1,0 +1,37 @@
+Withdraw : Rút tiền
+Target : Mục tiêu
+Score : Điểm số
+ClaimPer : Nhận {0}%
+Claim : Nhận
+COLLECT : THU THẬP
+Free Revive : Hồi sinh free
+Replay : Chơi lại
+Music : Âm nhạc
+Sounds : Âm thanh
+Vibrates : Rung
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Quay
+drawtips : Rút {0} lần để nhận tất cả phần thưởng. Mỗi lần rút thưởng nhân đôi!
+earngold : Kiếm vàng bằng cách xem video. Rút khi đạt {0}.
+withdrawtips : Bạn đã đạt {0} để rút. Kiểm tra và rút ngay!
+Progress : Tiến độ
+Lost due to out of space : Mất do hết bộ nhớ
+Free Revive : Hồi sinh miễn phí
+Replay : Chơi lại
+Withdrawal : Rút tiền
+information : Nhập thông tin của bạn
+Redeem : Đổi thưởng
+RedeemResult : Đổi Kết Quả
+RedeemTask : Nhiệm vụ Đổi
+WithdrawalMethod : Phương thức rút tiền
+entername : Vui lòng nhập tên của bạn
+Account : Tài khoản
+Email : Email
+fullname : Họ và tên
+youraccount : Tài khoản của bạn
+youremail : Email của bạn
+Revise : Chỉnh sửa
+Confirming : Đang xác nhận

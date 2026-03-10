@@ -1,0 +1,37 @@
+Withdraw : Auszahlen
+Target : Ziel
+Score : Punktestand
+ClaimPer : Einfordern {0}%
+Claim : Einfordern
+COLLECT : SAMMELN
+Free Revive : Gratis-Revive
+Replay : Nochmal spielen
+Music : Musik
+Sounds : Sounds
+Vibrates : Vibration
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Drehen
+drawtips : Ziehe {0}-mal, um alle Belohnungen zu erhalten. Jeder Zug verdoppelt den Gewinn!
+earngold : Verdiene Gold durch Videos ansehen. Auszahlen bei {0}.
+withdrawtips : Du hast {0} zum Auszahlen erreicht. Jetzt prüfen und auszahlen!
+Progress : Fortschritt
+Lost due to out of space : Verlust durch Speichermangel
+Free Revive : Gratis-Wiederbelebung
+Replay : Nochmal spielen
+Withdrawal : Auszahlung
+information : Gib deine Daten ein
+Redeem : Einlösen
+RedeemResult : Gewinnergebnis einlösen
+RedeemTask : Einlöseaufgabe
+WithdrawalMethod : Auszahlungsmethode
+entername : Bitte gib deinen Namen ein
+Account : Konto
+Email : Email
+fullname : Vollständiger Name
+youraccount : Dein Konto
+youremail : Deine E‑Mail
+Revise : Ändern
+Confirming : Bestätigen

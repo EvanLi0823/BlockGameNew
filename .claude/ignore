@@ -1,0 +1,48 @@
+# Claude Code ignore file
+# Add patterns for files and directories that Claude Code should ignore
+
+# Unity generated files
+Library/
+Temp/
+Logs/
+obj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build results
+[Bb]uild/
+[Bb]uilds/
+[Bb]in/
+
+# Visual Studio cache directory
+.vs/
+
+# Large asset files (optional - uncomment if needed)
+# *.fbx
+# *.png
+# *.jpg
+# *.jpeg
+# *.psd
+# *.wav
+# *.mp3

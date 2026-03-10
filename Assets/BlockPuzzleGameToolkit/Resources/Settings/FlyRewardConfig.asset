@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 280b6fadc7eb64248bfe7ee4b148113e, type: 3}
+  m_Name: FlyRewardConfig
+  m_EditorClassIdentifier: 
+  prefabMappings:
+  - rewardType: 0
+    prefab: {fileID: 813857394376857312, guid: f50568838d48b426f8e323ba49874ce9, type: 3}
+    sprite: {fileID: 0}
+  - rewardType: 4
+    prefab: {fileID: 3759238621544434675, guid: 0b983fdd18ef942bf9ec551b48c8b8a3, type: 3}
+    sprite: {fileID: 0}
+  defaultDuration: 2
+  fireworkBurstRadius: 150
+  initialScale: 0
+  maxScale: 1.5
+  finalScale: 0.4
+  completionDelay: 1
+  flyStartSound: {fileID: 8300000, guid: eaa93e9ab72e74f88a7ca8515a04474f, type: 3}
+  itemReachSound: {fileID: 0}
+  allCompleteSound: {fileID: 0}
+  poolInitialSize: 20
+  poolMaxSize: 50

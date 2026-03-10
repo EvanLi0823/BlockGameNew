@@ -1,0 +1,37 @@
+Withdraw : Preleva
+Target : Bersaglio
+Score : Punteggio
+ClaimPer : Richiedi {0}%
+Claim : Richiedi
+COLLECT : RACCOGLIERE
+Free Revive : Revive gratuito
+Replay : Rigiocha
+Music : Musica
+Sounds : Suoni
+Vibrates : Vibrazioni
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Gira
+drawtips : Estrai {0} volte per ottenere tutti i premi. Ogni estrazione raddoppia il premio!
+earngold : Guadagna oro guardando video. Preleva quando raggiungi {0}.
+withdrawtips : Hai raggiunto {0} per il prelievo. Controlla e preleva ora!
+Progress : Progresso
+Lost due to out of space : Perso per mancanza di spazio
+Free Revive : Revive gratuito
+Replay : Rigiocha
+Withdrawal : Prelievo
+information : Inserisci i tuoi dati
+Redeem : Riscatta
+RedeemResult : Riscatta Risultato
+RedeemTask : Missione di Riscatto
+WithdrawalMethod : Metodo di prelievo
+entername : Inserisci il tuo nome
+Account : Account
+Email : Email
+fullname : Nome completo
+youraccount : Il tuo account
+youremail : La tua e‑mail
+Revise : Modifica
+Confirming : Conferma in corso

@@ -1,0 +1,37 @@
+Withdraw : Tarik
+Target : Sasaran
+Score : Skor
+ClaimPer : Klaim {0}%
+Claim : Klaim
+COLLECT : MENGUMPULKAN
+Free Revive : Free Revive
+Replay : Main lagi
+Music : Musik
+Sounds : Suara
+Vibrates : Getaran
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : Putar
+drawtips : Undi {0} kali untuk dapatkan semua hadiah. Setiap undian gandakan hadiahnya!
+earngold : Dapatkan emas dengan menonton video. Tarik saat mencapai {0}.
+withdrawtips : Anda telah mencapai {0} untuk ditarik. Cek dan tarik sekarang!
+Progress : Kemajuan
+Lost due to out of space : Hilang karena kehabisan ruang
+Free Revive : Kebangkitan Gratis
+Replay : Main lagi
+Withdrawal : Penarikan
+information : Masukkan informasi Anda
+Redeem : Tukarkan
+RedeemResult : Tukarkan Hasil
+RedeemTask : Tugas Penukaran
+WithdrawalMethod : Metode Penarikan
+entername : Silakan masukkan nama Anda
+Account : Akun
+Email : Email
+fullname : Nama Lengkap
+youraccount : Akun Anda
+youremail : Email Anda
+Revise : Ubah
+Confirming : Memproses Konfirmasi

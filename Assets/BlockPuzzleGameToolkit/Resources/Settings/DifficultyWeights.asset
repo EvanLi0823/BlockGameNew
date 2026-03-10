@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbfb3c7fe62842749c6c3406a104ed2, type: 3}
+  m_Name: DifficultyWeights
+  m_EditorClassIdentifier: 
+  spaceStressWeight: 0.25
+  shapeComplexityWeight: 0.2
+  targetPressureWeight: 0.25
+  timePressureWeight: 0.15
+  resourceConstraintWeight: 0.1
+  strategyDepthWeight: 0.05
+  tutorialMax: 15
+  easyMax: 30
+  normalMax: 50
+  hardMax: 70
+  expertMax: 85
+  firstIncreaseThreshold: 3
+  subsequentIncreaseInterval: 2
+  decreaseFailureThreshold: 1
+  decreaseAdjustAmount: 0.15

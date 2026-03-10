@@ -1,0 +1,37 @@
+Withdraw : 출금하다
+Target : 타겟
+Score : 점수
+ClaimPer : 받기 {0}%
+Claim : 받기
+COLLECT : 수집
+Free Revive : 무료 부활
+Replay : 다시하기 
+Music : 음악
+Sounds : 효과음
+Vibrates : 진동
+ON : ON
+OFF : OFF
+PrivacyPolicy : Privacy Policy
+TermsofUse : Terms of Use
+SPIN : 돌리기
+drawtips : {0}번 뽑아 모든 보상 획득! 매번 뽑기 시 보상 2배!
+earngold : 영상 보며 골드 획득. {0} 달성 시 출금 가능.
+withdrawtips : 출금 가능 금액 {0}에 도달했습니다. 지금 확인하고 출금하세요!
+Progress : 진행도
+Lost due to out of space : 공간 부족으로 손실됨
+Free Revive : 무료 부활
+Replay : 다시하기
+Withdrawal : 출금
+information : 정보를 입력하세요
+Redeem : 교환하다
+RedeemResult : 교환 결과
+RedeemTask : 교환 미션 
+WithdrawalMethod : 출금 방법
+entername : 이름을 입력해 주세요
+Account : 계정 
+Email : Email
+fullname : 성명
+youraccount : 계정 정보
+youremail : 이메일
+Revise : 수정
+Confirming : 확인 중
