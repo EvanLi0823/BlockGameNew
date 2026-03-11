@@ -40,6 +40,7 @@ author: BlockGame Team
 | 2 | SingletonBehaviour使用规范 | [singleton-pattern.md](references/unity/singleton-pattern.md) |
 | 2 | Manager系统设计、事件系统 | [manager-architecture.md](references/unity/manager-architecture.md) |
 | 2 | ScriptableObject配置系统 | [settings-system.md](references/unity/settings-system.md) |
+| 2 | 安全调用模式、防止NullReference | [safe-calling-patterns.md](references/unity/safe-calling-patterns.md) ⭐⭐ |
 | **🟢 P3: Performance** | | |
 | 3 | Unity性能最佳实践 | [unity-performance.md](references/performance/unity-performance.md) |
 | 3 | 内存管理、对象池 | [memory-management.md](references/performance/memory-management.md) |
@@ -82,8 +83,26 @@ grep "namespace" TargetFile.cs
 5. **readonly/const** - 标记不可变
 6. **nameof** - 避免硬编码字符串
 7. **中文注释** - 核心逻辑说明
+8. **安全调用** - 所有单例/组件访问都需null检查
 
 详见 [代码质量规范](references/csharp/code-quality.md)
+
+## 🔐 安全调用模板
+
+**所有Manager调用必须使用此模板**：
+```csharp
+var manager = ManagerClass.Instance;
+if (manager != null)
+{
+    var result = manager?.MethodName() ?? defaultValue;
+}
+else
+{
+    Debug.LogWarning($"{nameof(ManagerClass)}未找到");
+}
+```
+
+详见 [安全调用模式](references/unity/safe-calling-patterns.md)
 
 ## Common Mistakes vs Best Practices
 
