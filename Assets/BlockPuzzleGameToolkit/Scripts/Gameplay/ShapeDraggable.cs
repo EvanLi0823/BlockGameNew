@@ -17,6 +17,7 @@ using BlockPuzzleGameToolkit.Scripts.Enums;
 using BlockPuzzleGameToolkit.Scripts.GameCore;
 using BlockPuzzleGameToolkit.Scripts.GameCore.Haptic;
 using BlockPuzzleGameToolkit.Scripts.Gameplay.Managers;
+using BlockPuzzleGameToolkit.Scripts.Popups;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.UI;
@@ -320,6 +321,12 @@ namespace BlockPuzzleGameToolkit.Scripts.Gameplay
         /// <param name="position">拖拽起始位置</param>
         private void BeginDrag(Vector2 position)
         {
+            // 检查是否有Popup打开，如果有则阻止拖拽
+            if (MenuManager.Instance != null && MenuManager.Instance.IsAnyPopupOpened())
+            {
+                return;
+            }
+            
             isDragging = true;
             originalPosition = rectTransform.anchoredPosition;
             originalScale = transform.localScale;
